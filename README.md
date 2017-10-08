@@ -11,7 +11,21 @@
 -----
 
 
-[TOC]
+<ul>
+<li><a href="#nicole">Nicole</a><ul>
+<li><a href="#wallet-download-github">Wallet Download Github</a></li>
+</ul>
+</li>
+<li><a href="#nicole-vital-statistics">Nicole Vital Statistics</a></li>
+<li><a href="#who-is-nicole">Who is Nicole?</a><ul>
+<li><a href="#nicoleconf">Nicole.conf</a></li>
+<li><a href="#compiling-nicole-qt4-dependencies">Compiling Nicole QT4 Dependencies</a></li>
+<li><a href="#nicolexplorer">Nicolexplorer</a></li>
+<li><a href="#genesis-and-tx-hash">Genesis and TX Hash</a></li>
+</ul>
+</li>
+</ul>
+
 
 
 -----
