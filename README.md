@@ -34,7 +34,10 @@
 
 
 
-*Nicole is a daring new cryptocurrency based on Proof-of-Stake with an initial 10,000 hybrid blocks.*
+**Nicole is a daring new cryptocurrency based on purely on Proof-of-Stake.**
+
+
+**There are no POW blocks left to mine.**
 
 
 -----
